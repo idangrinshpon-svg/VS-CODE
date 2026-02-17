@@ -1,0 +1,63 @@
+## Cisco|cisco.com
+FOUND=0
+## Dell|dell.com
+FOUND=0
+## HPE|hpe.com
+FOUND=0
+## Fortinet|fortinet.com
+FOUND=0
+## CheckPoint|checkpoint.com
+FOUND=0
+## Juniper|juniper.net
+FOUND=43
+https://www.juniper.net/content/dam/www/assets/flyers/fr/fr/ai-leader-for-wired-and-wireless-lan.pdf
+https://www.juniper.net/content/dam/www/assets/white-papers/fr/fr/security/the-rise-of-zero-trust.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/top-10-capabilities-to-look-for-from-your-sase-provider.pdf
+https://www.juniper.net/content/dam/www/assets/case-studies/fr/fr/2020/gap-case-study.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/routers/mx-204-240-480-960-series-universal-routing-platforms-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/cloud-services/juniper-mist-wired-assurance-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/cloud-services/wi-fi-assurance-overview.pdf
+https://www.juniper.net/content/dam/www/assets/solution-briefs/fr/fr/routers/ai-driven-sd-wan-accelerates-digital-transformation-with-an-agile-efficient-and-resilient-network.pdf
+https://www.juniper.net/content/dam/www/assets/white-papers/fr/fr/the-ai-driven-campus-architecture.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/cloud-services/juniper-mist-wan-assurance-overview-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/solution-briefs/fr/fr/2024/juniper-apstra-for-federal-and-defense-networks-solution-brief.pdf
+https://www.juniper.net/content/dam/www/assets/solution-briefs/fr/fr/juniper-networks-and-corero-a-modern-approach-to-ddos-protection-at-scale.pdf
+https://www.juniper.net/content/dam/www/assets/white-papers/fr/fr/2021/forrester-the-total-economic-impact-of-juniper-connected-security.pdf
+https://www.juniper.net/content/dam/www/assets/solution-briefs/fr/fr/security/five-reasons-to-migrate-to-next-generation-srx300-firewalls.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/running-your-private-data-center-has-never-been-easier.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/multi-vendor-intent-based-networking.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/protect-your-zero-trust-data-center-your-castle.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/2023/hardware-end-of-life-is-your-opportunity-to-invest-in-your-future.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/2023/from-data-center-to-centers-of-data-from-firewall-to-firewalling-your-network.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/beyond-the-network-5-ways-to-immediately-improve-the-networking-experience-in-retail.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/switches/ex4100-h-line-of-ethernet-switches-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/is-your-network-suffering-from-badput.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/2025/wi-fi-7-conquer-the-climb-to-continuous-peak-wi-fi-performance.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/routers/acx7020-cloud-metro-routers-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/solution-briefs/fr/fr/2024/multivendor-intent-based-networking-with-juniper-apstra-solution-brief.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/cloud-services/apstra-cloud-services-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/network-automation/apstra-solution-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/cloud-services/marvis-virtual-network-assistant-for-data-center-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/white-papers/fr/fr/2021/the-business-value-of-aiops-driven-network-management.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/4-reasons-to-modernize-your-enterprise-private-wan-with-juniper-networks-mx-series-routers.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/services/juniper-ai-care-services-for-mist-ai-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/analysys-mason-the-state-of-data-center-network-automation.pdf
+https://www.juniper.net/content/dam/www/assets/flyers/fr/fr/apstra-data-center-director-at-a-glance.pdf
+https://www.juniper.net/content/dam/www/assets/white-papers/fr/fr/2021/juniper-apstra-architecture.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/network-automation/apstra-solution.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/access-points/ap47-access-point-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/switches/ex4000-line-of-ethernet-switches-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/10-elements-of-a-zero-trust-data-center.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/access-points/ap37-ap36-access-point-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/access-points/ap66-access-point-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/white-papers/fr/fr/2024/acg-research-an-economic-and-environmental-comparison-of-juniper-networks-routers-with-a-leading-competitor.pdf
+https://www.juniper.net/content/dam/www/assets/datasheets/fr/fr/switches/ex4400-line-of-ethernet-switches-datasheet.pdf
+https://www.juniper.net/content/dam/www/assets/infographics/fr/fr/2023/unified-network-management-is-key-to-better-application-experiences.pdf
+## PaloAlto|paloaltonetworks.com
+FOUND=0
+## Arista|arista.com
+FOUND=0
+## Extreme|extremenetworks.com
+FOUND=0
+## Lenovo|lenovo.com
+FOUND=0
